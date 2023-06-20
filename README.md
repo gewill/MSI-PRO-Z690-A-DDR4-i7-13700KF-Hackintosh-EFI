@@ -1,0 +1,1 @@
+# MSI-PRO-Z690-A-Wi-Fi-DDR4-i7-13700KF-Hackintosh-EFI
