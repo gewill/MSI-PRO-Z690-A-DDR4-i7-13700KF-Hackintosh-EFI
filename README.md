@@ -40,7 +40,9 @@ CPU：[Intel i7 13700KF](https://www.intel.com/content/www/us/en/products/sku/23
 
 ## USB定制
 
-![Headers](./assets/README/Headers.jpg)
+![USB-1](./assets/README/USB-1.jpg)
+
+![USB-2](./assets/README/USB-2.jpg)
 
 参考：
 
