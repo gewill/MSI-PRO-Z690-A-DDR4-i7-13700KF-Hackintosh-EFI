@@ -36,6 +36,20 @@ CPU：[Intel i7 13700KF](https://www.intel.com/content/www/us/en/products/sku/23
 
 机箱：[追风者 PK-515ETG](http://www.phanteks.com/Enthoo-Evolv-ATX-TemperedGlass.html)
 
+
+
+## USB定制
+
+![Headers](./assets/README/Headers.jpg)
+
+参考：
+
+- [MSI PRO Z690-A DDR4 USB Ports Identified](https://www.tonymacx86.com/threads/msi-pro-z690-a-ddr4-i7-12700k-amd-rx-580.319149/page-4#post-2311844)
+
+- [黑苹果用USBToolBox定制USB](https://gewill.org/2022/12/14/Custom-USB-for-hackintosh-by-USBToolBox/)
+
+编辑 [USBPortsNATA-All Possible Ports EDIT ME V2.kext](EFI/OC/Kexts/USBPortsNATA-All Possible Ports EDIT ME V2.kext) 移除多余的USB端口，保留15个以下即可。
+
 ## 性能测试
 
 ![About](./assets/README/About-20230618.png)
