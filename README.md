@@ -50,7 +50,7 @@ CPU：[Intel i7 13700KF](https://www.intel.com/content/www/us/en/products/sku/23
 
 - [黑苹果用USBToolBox定制USB](https://gewill.org/2022/12/14/Custom-USB-for-hackintosh-by-USBToolBox/)
 
-编辑 [USBPortsNATA-All Possible Ports EDIT ME V2.kext](EFI/OC/Kexts/USBPortsNATA-All Possible Ports EDIT ME V2.kext) 移除多余的USB端口，保留15个以下即可。
+编辑 [USBPortsNATA-All Possible Ports EDIT ME V2.kext](./EFI/OC/Kexts/USBPortsNATA-All Possible Ports EDIT ME V2.kext) 移除多余的USB端口，保留15个以下即可。
 
 ## 性能测试
 
