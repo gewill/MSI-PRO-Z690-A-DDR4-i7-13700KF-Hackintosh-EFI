@@ -6,6 +6,8 @@
 
 在此基础上添加有线网卡的驱动。
 
+> 更新 Sonoma EFI，需要配合OpenCore Legacy Patcher(OCLP），完整教程见：[为Sonoma驱动博通无线网卡的详细步骤](https://bbs.pcbeta.com/viewthread-1975545-1-1.html)
+
 ## 机器配置
 
 前段时间搬家时水冷没有扭紧，脱落导致划伤CPU基座和SSD，痛心❣️。
